@@ -1,6 +1,5 @@
 # initPy4JDSS.py
 # Evan Heisman
-# USACE NWW-EC-H
 # Initializes the Py4J Gateway Server from Jython so that regular old "C"Python can make calls to the HEC Java API.  Tested with Py4J 0.8.4.1.
 # 17 Dec 2014
 #
